@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="commons-fileupload-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar!/"/>
+	</lib>
+	<lib name="commons-io-1.3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-io-1.3.2.jar!/"/>
+	</lib>
+	<lib name="fastjson-1.2.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/fastjson-1.2.2.jar!/"/>
+	</lib>
+	<lib name="jstl-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar!/"/>
+	</lib>
+	<lib name="log4j-1.2.14.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j-1.2.14.jar!/"/>
+	</lib>
+	<lib name="mybatis-3.2.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mybatis-3.2.7.jar!/"/>
+	</lib>
+	<lib name="mysql-connector-java-5.1.7-bin.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/"/>
+	</lib>
+	<lib name="asm-3.3.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/asm-3.3.1.jar!/"/>
+	</lib>
+	<lib name="jersey-client-1.18.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-client-1.18.jar!/"/>
+	</lib>
+	<lib name="jersey-core-1.18.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-core-1.18.jar!/"/>
+	</lib>
+	<lib name="jersey-grizzly2-1.19.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-grizzly2-1.19.4.jar!/"/>
+	</lib>
+	<lib name="jersey-server-1.18.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-server-1.18.jar!/"/>
+	</lib>
+	<lib name="jersey-servlet-1.18.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-servlet-1.18.jar!/"/>
+	</lib>
+	<lib name="jersey-spring-1.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-spring-1.9.jar!/"/>
+	</lib>
+	<lib name="jsr311-api-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar!/"/>
+	</lib>
+	<lib name="jersey-json-1.0.3.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jersey-json-1.0.3.1.jar!/"/>
+	</lib>
+	<lib name="poi-3.8-20120326.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/poi-3.8-20120326.jar!/"/>
+	</lib>
+	<levels>
+		<level name="lib" value="project"/>
+	</levels>
+</component>
